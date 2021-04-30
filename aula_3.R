@@ -24,9 +24,8 @@ library(rgl)
 ("http://municipios.ibam.org.br/")
 
 
-## IPEADATA
+## Meu município 
 
-("http://ipeadata.gov.br/beta3/")
 
 
 ### 1 - Visitar site do TSE 
